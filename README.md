@@ -45,4 +45,4 @@ Submissions will be evaluated based on the following:
 ## Submission
 1. Push your solution to a private GitHub repo.
 2. Add `leeschmalz` to the repository.
-3. Include the link to your private GitHub repo in the associated screening question when you apply to the [active job posting](https://www.todo.com).
+3. Include the link to your private GitHub repo in the associated screening question when you apply to the [active job posting]([https://www.todo.com](https://prenosis.com/careers/#job-2305120)).
